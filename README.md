@@ -51,7 +51,7 @@ This project connected individual server roles into one working environment. It 
 
 This repository summarizes the completed lab report. The lab includes course-specific settings and legacy services; its configurations describe an educational environment rather than a production deployment template. Original VM images and full configuration exports are not included here.
 
-The standalone [Exchange lab](https://github.com/laflame90210/exchange-server-lab), [Active Directory projects](https://github.com/laflame90210/active-directory-lab), and [Linux exercises](https://github.com/laflame90210/linux-administration) provide related portfolio entries.
+The standalone [Exchange lab](https://github.com/laflame90210/exchange-server-lab) provide related portfolio entries.
 
 
 ---
